@@ -1,0 +1,4 @@
+watchfiles ~= 0.18.1
+sqlalchemy ~= 1.4.46
+sqlalchemy_utils ~= 0.39.0
+timeloop~=1.0.2
